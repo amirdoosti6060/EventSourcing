@@ -3,7 +3,7 @@
 ## Introduction
 This project provide a sample that shows how to implement an **Event Sourcing Design Pattern** in .Net 6.  
 I also wrote an article in the following address that completely explains **Event Sourcing Design Pattern**:  
-https://www.linkedin.com/pulse/api-gateways-cnet-amir-doosti/  
+https://www.linkedin.com/pulse/event-sourcing-amir-doosti  
 
 ## Structure of soution
 The solution contains one Console App project which is written in Visual Studio. It simulate generating event during deposit and withdraw in a bank account and then create a new account and apply all event on it to have two simmilar accounts.
